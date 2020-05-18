@@ -13,3 +13,16 @@ Analysis: <a href="https://databricks-prod-cloudfront.cloud.databricks.com/publi
 **Architecture**:
 <br>
 ![Architecture](https://github.com/aashish-bidap/Flight-Data-Analysis---BigData/blob/master/Architecture.png)
+
+<br>
+
+**Analysis 1 : Exploratory Data Analysis of Data:**
+![Architecture](https://github.com/aashish-bidap/Flight-Data-Analysis---BigData/blob/master/analysis-1.png)
+
+<br>
+**Analysis 2 : Impact of Global Recession:**
+![Architecture](https://github.com/aashish-bidap/Flight-Data-Analysis---BigData/blob/master/analysis-2.png)
+
+<br>
+**Analysis 3 : Fraud Data Analysis:**
+![Architecture](https://github.com/aashish-bidap/Flight-Data-Analysis---BigData/blob/master/analysis-3.png)
